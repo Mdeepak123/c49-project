@@ -1,0 +1,54 @@
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.grid{
+    margin: 40mm;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.origami{
+    margin: 50px;
+    border-radius: 20px;
+    border-top: white;
+    width: 350px;
+    background-color: white;
+    font-family: fantasy;
+    
+}
+
+.menu{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-family: 400;
+    color: white;
+    
+}
+
+body{
+    background-color: whitesmoke;
+}
+.bodyimg{
+    height: 500px;
+
+    display: flex;
+    justify-content: center;
+    background-image: url("images/1687819.jpg");
+    background-color: #cccccc;
+}
+
+.text{
+    margin: 100px;
+    
+    text-align: center;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white
+}
